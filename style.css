@@ -1,0 +1,55 @@
+*{
+    font-family: "DM Sans", sans-serif;
+}
+
+header{
+    background-color: #2F3645;
+}
+
+header span{
+    color: #E6B9A6;
+
+}
+
+.nav-item a{
+    color: beige;
+}
+
+/* visitado */
+.nav-item a:visited{
+    color: #EEEDEB;
+
+}
+
+.nav-item a:hover{
+    color: blue;
+}
+
+#nav-button{
+    background-color: #E6B9A6;
+}
+
+.icon-square .bi{
+    background-color: #E6B9A6;
+    color: beige;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 4px;
+}
+.img-proyecto1{
+    background-image: url('imagenes/clon.png');
+    background: rgba(76, 175, 80, 0.3);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.img-proyec1 {
+    background-image: url(/imagenes/clonpin.png);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el contenedor */
+    background-repeat: no-repeat;
+    position: relative; /* Necesario para colocar el pseudo-elemento */
+    }
+    
