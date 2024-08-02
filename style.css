@@ -29,7 +29,7 @@ header span{
     background-color: #E6B9A6;
 }
 
-.icon-square .bi{
+.icon-habilidades{
     background-color: #E6B9A6;
     color: beige;
     width: 60px;
@@ -46,10 +46,27 @@ header span{
     background-repeat: no-repeat;
 
 }
-.img-proyec1 {
+/* .img-proyecto1{ 
     background-image: url(/imagenes/clonpin.png);
-    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el contenedor */
+    background-size: cover; /*Ajusta el tamaño de la imagen para cubrir el contenedor 
     background-repeat: no-repeat;
-    position: relative; /* Necesario para colocar el pseudo-elemento */
-    }
-    
+    position: relative; /* Necesario para colocar el pseudo-elemento 
+    } */
+footer{
+    background-color: #2F3645 ;
+}
+footer .icon-footer i{
+    color: beige ;
+}
+footer p{
+    color: beige ;
+}
+
+footer p a{
+    color:  beige ;
+}
+
+.icon-boton2{
+    background-color: #2F3645 ;
+    border-color: #2F3645;
+}
