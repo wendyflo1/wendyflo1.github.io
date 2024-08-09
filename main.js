@@ -5,7 +5,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Desarrolladora Web')
+typewriter.typeString('Desarrolladora Web Jr')
     .pauseFor(2500)
     .deleteAll()
     .typeString('Soporte Tecnico y Community Manager')
